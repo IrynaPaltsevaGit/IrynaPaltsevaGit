@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iryna</h1>
 <h3 align="center">I am a resourceful and dedicated Software Engineer with a passion for collaborative problem-solving. I thrive in team environments, fostering positivity and productivity with a strong work ethic. Known for meticulous attention to detail and adeptness in crafting efficient solutions.</h3>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irynapaltsevagit" alt="irynapaltsevagit" /></a> </p>
 
 - 🔭 I’m currently working on [WordWizard UA-ENG](https://github.com/IrynaPaltsevaGit/word_wizard-frontend)
 
